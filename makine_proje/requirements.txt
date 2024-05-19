@@ -1,6 +1,6 @@
 pandas
 numpy
-seaborn
+seaborn==0.11.2
 matplotlib
 plotly
 scikit-learn
